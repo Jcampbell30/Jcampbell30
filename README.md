@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jcampbell30
+- 👋 System.out.println("Hello World! I’m Jared Campbell.");
 - 👀 I’m interested in Java, C++, Python, Parallel Computing, DevOps and Ubuntu. 
-- 🌱 I’m currently learning Computer Science at the University of Tennesse Chattanooga.
+- 🌱 I’m currently learning Computer Science at the University of Tennesse at Chattanooga.
 - 💞️ I’m looking to collaborate on projects, learning excercises and more.
 - 📫 How to reach me @campbellj19@gmail.com
 
